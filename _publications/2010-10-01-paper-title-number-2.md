@@ -1,14 +1,18 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+
+[13]. Heimann,D., Wiebe, F., Abad, T., Mounzer. E,  Huang, T., Kumar, S., and Kirchner, F., Iterative Linear Quadratic Regulator for Quantum Optimal Control, arXiv preprint arXiv:2504.10938 (2025).
+
+[12]. Huang, T.*, Zhu, J.J., Ni, Z.Y. , Optimal Control by Variational Quantum Algorithms, arXiv preprint arXiv:2505.23373 (2025).
+
+[11]. Huang, T., Gaikwad, A., Moskalenko, et al., Quantum Process Tomography with Digital Twins of Error Matrices, arXiv preprint arXiv:2505.07725 (2025).
+
+[10]. Patel, A., Gaikwad, A., Huang, T., Kockum, A. F., & Abad, T., Selective and efficient quantum state tomography for multi-qubit systems, arXiv preprint arXiv:2503.20979 (2025).
+
+[9]. Liangyu Chen, Simon Pettersson Fors, Zixian Yan, Anaida Ali, Tahereh Abad, Huang, T., et al, Fast unconditional reset and leakage reduction in fixed-frequency transmon qubits, arXiv preprint arXiv:2409.16748 (2024).
+
+
+[8]. Guo, L., Huang, T.*, & Du, L.*, Engineering Fault-tolerant Bosonic Codes with Quantum Lattice Gates, arXiv preprint arXiv:2410.17069 (2024).
+
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+ 
